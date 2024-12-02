@@ -3,7 +3,6 @@ I am pursuing a career in UX/UI Design, Graphic Design, or Web Design.
 
 I'd love to collaborate with you!
 
-How to reach me:
 LinkedIn: https://www.linkedin.com/in/kayla-lange-3605272b1/?trk=opento_sprofile_details
 
 <!--
