@@ -1,4 +1,10 @@
-## Hi there 👋
+I'm currently working on my Bachelor's Degree through BYU-Idaho, including a certificates in Web Design and Development and Graphic Design.
+I am pursuing a career in UX/UI Design, Graphic Design, or Web Design.
+
+I'd love to collaborate with you!
+
+How to reach me:
+LinkedIn: https://www.linkedin.com/in/kayla-lange-3605272b1/?trk=opento_sprofile_details
 
 <!--
 **KaylaLange/KaylaLange** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
